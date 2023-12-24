@@ -14,5 +14,7 @@ npm run dev
 
 which is hosted on [http://localhost:3000](http://localhost:3000)
 
+## Hosting!
+
 Not hosted yet! But soon!
 
