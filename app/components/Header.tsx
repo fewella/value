@@ -12,12 +12,10 @@ export default function Header() {
             </div>
 
             <div className="w-1/3 text-center justify-around">
-
-                <Link href="/projects" className="hover:underline px-5">Method</Link>
-                <Link href="/projects" className="hover:underline px-5">Picks</Link>
-                <Link href="/projects" className="hover:underline px-5">Metrics</Link>
+                <Link href="/method" className="hover:underline px-5">Method</Link>
+                <Link href="/picks" className="hover:underline px-5">Picks</Link>
+                <Link href="/metrics" className="hover:underline px-5">Metrics</Link>
                 <Link href="/projects" className="hover:underline px-5">Little Things :&gt;</Link>
-
             </div>
 
             <div className="w-1/3 text-right">
